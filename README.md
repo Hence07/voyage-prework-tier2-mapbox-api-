@@ -1,2 +1,2 @@
-# voyage-prework-tier2-mapbox-api-
-The objective of  this project is to build a web application using the Mapbox API to build a map of the city of Laurel MD.
+Hi,  This is Prudence Codjia and I am honored to be accepted in this cohort 11 voyage at Chingu.
+In this project, i will be building a mapbox api of my city, Laurel MD. I will be using React framework for the frontend , Html, Css, Bootstrap, Node.js, and Express.
